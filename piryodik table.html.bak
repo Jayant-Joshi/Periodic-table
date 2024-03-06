@@ -1,0 +1,157 @@
+<html>
+	<head>
+		<title>piryodik table</title>
+	</head>
+	<body>
+		<h1 align="center">The Periodic Table</h1>
+		<center>
+		<table style="border : 2px solid black">
+			<tr>
+				<td align="center"  bgcolor="33FFD7">1<br>H</td>
+				<td colspan="16"> </td>
+				<td align="center" bgcolor="FF3333">2<br>He</td>
+			</tr>
+			<tr>
+				<td align="center" bgcolor="5F6FBD">3<br>Li</td>
+				<td align="center" bgcolor="D3DBFF">4<br>Be</td>
+				<td colspan="10"></td>
+				<td align="center" bgcolor="E47B43">5<br>B</td>
+				<td align="center" bgcolor="33FFD7">6<br>C</td>
+				<td align="center" bgcolor="33FFD7">7<br>N</td>
+				<td align="center" bgcolor="33FFD7">8<br>O</td>
+				<td align="center" bgcolor="9FA75E">9<br>F</td>
+				<td align="center" bgcolor="FF3333">10<br>Ne</td>
+			</tr>
+			<tr>
+				<td align="center" bgcolor="5F6FBD">11<br>Na</td>
+				<td align="center" bgcolor="D3DBFF">12<br>Mg</td>
+				<td colspan="10"></td>
+				<td align="center" bgcolor="E4C9C9">13<br>AI</td>
+				<td align="center" bgcolor="E47B43">14<br>Si</td>
+				<td align="center" bgcolor="33FFD7">15<br>P</td>
+				<td align="center" bgcolor="33FFD7">16<br>S</td>
+				<td align="center" bgcolor="9FA75E">17<br>cl</td>
+				<td align="center" bgcolor="FF3333">18<br>Ar</td>
+			</tr>
+			<tr>
+				<td align="center" bgcolor="5F6FBD">19<br>K</td>
+				<td align="center" bgcolor="D3DBFF">20<br>Ca</td>
+				<td align="center" bgcolor="A4E6D1">21<br>Sc</td>
+				<td align="center" bgcolor="A4E6D1">22<br>Ti</td>
+				<td align="center" bgcolor="A4E6D1">23<br>V</td>
+				<td align="center" bgcolor="A4E6D1">24<br>Cr</td>
+				<td align="center" bgcolor="A4E6D1">25<br>Mn</td>
+				<td align="center" bgcolor="A4E6D1">26<br>Fe</td>
+				<td align="center" bgcolor="A4E6D1">27<br>Co</td>
+				<td align="center" bgcolor="A4E6D1">28<br>Ni</td>
+				<td align="center" bgcolor="A4E6D1">29<br>Cu</td>
+				<td align="center" bgcolor="A4E6D1">30<br>Zn</td>
+				<td align="center" bgcolor="E4C9C9">31<br>Ga</td>
+				<td align="center" bgcolor="E47B43">32<br>Ge</td>
+				<td align="center" bgcolor="E47B43">33<br>As</td>
+				<td align="center" bgcolor="33FFD7">34<br>Se</td>
+				<td align="center" bgcolor="9FA75E">35<br>Br</td>
+				<td align="center" bgcolor="FF3333">36<br>Kr</td>
+			</tr>
+			<tr>
+				<td align="center" bgcolor="5F6FBD">37<br>Rb</td>
+				<td align="center" bgcolor="D3DBFF">38<br>Sr</td>
+				<td align="center" bgcolor="A4E6D1">39<br>Y</td>
+				<td align="center" bgcolor="A4E6D1">40<br>Zr</td>
+				<td align="center" bgcolor="A4E6D1">41<br>Nb</td>
+				<td align="center" bgcolor="A4E6D1">42<br>Mo</td>
+				<td align="center" bgcolor="A4E6D1">43<br>Tc</td>
+				<td align="center" bgcolor="A4E6D1">44<br>Ru</td>
+				<td align="center" bgcolor="A4E6D1">45<br>Rh</td>
+				<td align="center" bgcolor="A4E6D1">46<br>Pd</td>
+				<td align="center" bgcolor="A4E6D1">47<br>Ag</td>
+				<td align="center" bgcolor="A4E6D1">48<br>Cd</td>
+				<td align="center" bgcolor="E4C9C9">49<br>In</td>
+				<td align="center" bgcolor="E4C9C9">50<br>Sn</td>
+				<td align="center" bgcolor="E47B43">51<br>Sb</td>
+				<td align="center" bgcolor="E47B43">52<br>Te</td>
+				<td align="center" bgcolor="9FA75E">53<br>I</td>
+				<td align="center" bgcolor="FF3333">54<br>Xe</td>
+			</tr>
+			<tr>
+				<td align="center" bgcolor="5F6FBD">55<br>Cs</td>
+				<td align="center" bgcolor="D3DBFF">56<br>Ba</td>
+				<td align="center" bgcolor="048987">57-71<br>L</td>
+				<td align="center" bgcolor="A4E6D1">72<br>Hf</td>
+				<td align="center" bgcolor="A4E6D1">73<br>Ta</td>
+				<td align="center" bgcolor="A4E6D1">74<br>W</td>
+				<td align="center" bgcolor="A4E6D1">75<br>Re</td>
+				<td align="center" bgcolor="A4E6D1">76<br>Os</td>
+				<td align="center" bgcolor="A4E6D1">77<br>Ir</td>
+				<td align="center" bgcolor="A4E6D1">78<br>Pt</td>
+				<td align="center" bgcolor="A4E6D1">79<br>Au</td>
+				<td align="center" bgcolor="A4E6D1">80<br>Hg</td>
+				<td align="center" bgcolor="E4C9C9">81<br>Ti</td>
+				<td align="center" bgcolor="E4C9C9">82<br>Pb</td>
+				<td align="center" bgcolor="E4C9C9">83<br>Bi</td>
+				<td align="center" bgcolor="E4C9C9">84<br>Po</td>
+				<td align="center" bgcolor="9FA75E">85<br>At</td>
+				<td align="center" bgcolor="FF3333">86<br>Rn</td>
+			</tr>
+			<tr>
+				<td align="center" bgcolor="5F6FBD">87<br>Fr</td>
+				<td align="center" bgcolor="D3DBFF">88<br>Ra</td>
+				<td align="center" bgcolor="048987">89-103<br>A</td>
+				<td align="center" bgcolor="A4E6D1">104<br>Rf</td>
+				<td align="center" bgcolor="A4E6D1">105<br>Db</td>
+				<td align="center" bgcolor="A4E6D1">106<br>Sg</td>
+				<td align="center" bgcolor="A4E6D1">107<br>Bh</td>
+				<td align="center" bgcolor="A4E6D1">108<br>Hs</td>
+				<td align="center" bgcolor="A4E6D1">109<br>Mt</td>
+				<td align="center" bgcolor="A4E6D1">110<br>Ds</td>
+				<td align="center" bgcolor="A4E6D1">111<br>Rg</td>
+				<td align="center" bgcolor="A4E6D1">112<br>Cn</td>
+				<td align="center" bgcolor="E4C9C9">113<br>Nh</td>
+				<td align="center" bgcolor="E4C9C9">114<br>FI</td>
+				<td align="center" bgcolor="E4C9C9">115<br>Mc</td>
+				<td align="center" bgcolor="E4C9C9">116<br>Lv</td>
+				<td align="center" bgcolor="9FA75E">117<br>Ts</td>
+				<td align="center" bgcolor="FF3333">118<br>Og</td>
+			</tr>
+			<tr></tr>
+			<tr></tr>
+			<tr></tr>
+				<tr>
+					<td colspan="2" rowspan="2"></td>
+					<td align="center" bgcolor="82879E">57<br>La</td>
+					<td align="center" bgcolor="82879E">58<br>Ce</td>
+					<td align="center" bgcolor="82879E">59<br>Pr</td>
+					<td align="center" bgcolor="82879E">60<br>Nd</td>
+					<td align="center" bgcolor="82879E">61<br>Pm</td>
+					<td align="center" bgcolor="82879E">62<br>Sm</td>
+					<td align="center" bgcolor="82879E">63<br>Eu</td>
+					<td align="center" bgcolor="82879E">64<br>Gd</td>
+					<td align="center" bgcolor="82879E">65<br>Tb</td>
+					<td align="center" bgcolor="82879E">66<br>Dy</td>
+					<td align="center" bgcolor="82879E">67<br>Ho</td>
+					<td align="center" bgcolor="82879E">68<br>Er</td>
+					<td align="center" bgcolor="82879E">69<br>Tm</td>
+					<td align="center" bgcolor="82879E">70<br>Yb</td>
+					<td align="center" bgcolor="82879E">71<br>Lu</td>
+				</tr>
+				<tr>
+					<td align="center" bgcolor="A57BEC">89<br>Ac</td>
+					<td align="center" bgcolor="A57BEC">90<br>Th</td>
+					<td align="center" bgcolor="A57BEC">91<br>Pa</td>
+					<td align="center" bgcolor="A57BEC">92<br>U</td>
+					<td align="center" bgcolor="A57BEC">93<br>Np</td>
+					<td align="center" bgcolor="A57BEC">94<br>Pu</td>
+					<td align="center" bgcolor="A57BEC">95<br>Am</td>
+					<td align="center" bgcolor="A57BEC">96<br>Cm</td>
+					<td align="center" bgcolor="A57BEC">97<br>Bk</td>
+					<td align="center" bgcolor="A57BEC">98<br>Cf</td>
+					<td align="center" bgcolor="A57BEC">99<br>Es</td>
+					<td align="center" bgcolor="A57BEC">100<br>Fm</td>
+					<td align="center" bgcolor="A57BEC">101<br>Md</td>
+					<td align="center" bgcolor="A57BEC">102<br>No</td>
+					<td align="center" bgcolor="A57BEC">103<br>Lr</td>
+				</tr>
+		</table>
+		</center>
+	</body>
+</html>
